@@ -10,6 +10,11 @@ Science and Technology. I am very passionate about applying programming concepts
 ## 🏫 I'm studying at:
 Graz University of Technology
 
+## 🔧 Currently working on:
+
+- An app that uses the kivy library to gameify the studying experience.
+- A Machine Learning program that identifies patterns in stocks
+
 ## 📫 How to reach me:
 -   Email: guilherme.p.candeias@gmail.com
 -   Twitter: Guilherme Candeias (@GuinWorldwide)
