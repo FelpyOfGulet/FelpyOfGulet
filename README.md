@@ -5,7 +5,8 @@ Science and Technology. I am very passionate about applying programming concepts
 
 ## 🌱 I’m currently learning:
 - Machine Learning with Python
-- Algorithms
+- Javascript, HTML and CSS
+- C++
 
 ## 🏫 I'm studying at:
 Graz University of Technology
